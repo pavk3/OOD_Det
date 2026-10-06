@@ -1,0 +1,19 @@
+# datasets
+celeba/
+cifar10/
+cifar10c/
+svhn/
+Glow-PyTorch/data/
+Glow-PyTorch/glow/
+
+# environments
+.venv/
+__pycache__/
+*.pyc
+
+# local config
+user_config.yaml
+
+# outputs
+*.out
+results/
